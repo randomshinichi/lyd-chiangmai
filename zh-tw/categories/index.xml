@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Erika Musterfrau - Ernährungshilfe &amp; Kochberatung</title>
-    <link>https://example.org/zh-tw/categories/</link>
+    <link>https://randomshinichi.github.io/lyd-chiangmai/zh-tw/categories/</link>
     <description>Recent content in Categories on Erika Musterfrau - Ernährungshilfe &amp; Kochberatung</description>
     <generator>Hugo</generator>
     <language>zh-tw</language>
-    <atom:link href="https://example.org/zh-tw/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://randomshinichi.github.io/lyd-chiangmai/zh-tw/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

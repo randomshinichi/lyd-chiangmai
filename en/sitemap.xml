@@ -2,76 +2,76 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/</loc>
+    <loc>https://randomshinichi.github.io/lyd-chiangmai/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://example.org/zh-tw/"
+                href="https://randomshinichi.github.io/lyd-chiangmai/zh-tw/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/"
+                href="https://randomshinichi.github.io/lyd-chiangmai/"
                 />
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://randomshinichi.github.io/lyd-chiangmai/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://example.org/zh-tw/categories/"
+                href="https://randomshinichi.github.io/lyd-chiangmai/zh-tw/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/categories/"
+                href="https://randomshinichi.github.io/lyd-chiangmai/categories/"
                 />
   </url><url>
-    <loc>https://example.org/license/</loc>
+    <loc>https://randomshinichi.github.io/lyd-chiangmai/license/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://example.org/zh-tw/license/"
+                href="https://randomshinichi.github.io/lyd-chiangmai/zh-tw/license/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/license/"
+                href="https://randomshinichi.github.io/lyd-chiangmai/license/"
                 />
   </url><url>
-    <loc>https://example.org/services/</loc>
+    <loc>https://randomshinichi.github.io/lyd-chiangmai/services/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://example.org/zh-tw/services/"
+                href="https://randomshinichi.github.io/lyd-chiangmai/zh-tw/services/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/services/"
+                href="https://randomshinichi.github.io/lyd-chiangmai/services/"
                 />
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://randomshinichi.github.io/lyd-chiangmai/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://example.org/zh-tw/tags/"
+                href="https://randomshinichi.github.io/lyd-chiangmai/zh-tw/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/tags/"
+                href="https://randomshinichi.github.io/lyd-chiangmai/tags/"
                 />
   </url><url>
-    <loc>https://example.org/legal/</loc>
+    <loc>https://randomshinichi.github.io/lyd-chiangmai/legal/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://example.org/zh-tw/legal/"
+                href="https://randomshinichi.github.io/lyd-chiangmai/zh-tw/legal/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/legal/"
+                href="https://randomshinichi.github.io/lyd-chiangmai/legal/"
                 />
   </url>
 </urlset>
